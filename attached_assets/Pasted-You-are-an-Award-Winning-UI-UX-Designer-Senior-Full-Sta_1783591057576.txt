@@ -1,0 +1,623 @@
+You are an Award-Winning UI/UX Designer, Senior Full Stack Developer, Motion Designer, Brand Strategist and CRO Expert.
+
+Your task is to build a COMPLETE premium restaurant website for
+
+"TUNG NAM EATING HOUSE"
+
+using React + TypeScript + Vite + Tailwind CSS + Framer Motion + shadcn/ui.
+
+This website is an unofficial concept created using publicly available information for demonstration purposes only.
+
+The website should feel like a Michelin-quality Chinese restaurant website while preserving the heritage and identity of Kolkata's famous Chinatown.
+
+DO NOT build a generic restaurant template.
+
+Every section must feel handcrafted for Tung Nam Eating House.
+
+====================================================
+
+PROJECT GOAL
+
+Create an unforgettable digital experience inspired by
+
+Chinese Heritage
+
+Kolkata Chinatown
+
+Traditional Wok Cooking
+
+Authentic Chinese Cuisine
+
+Modern Premium UI
+
+Luxury Dining Experience
+
+====================================================
+
+BUSINESS INFORMATION
+
+Restaurant
+
+Tung Nam Eating House
+
+Cuisine
+
+Authentic Chinese Cuisine
+
+Indo-Chinese
+
+Chinese Restaurant
+
+Google Rating
+
+4.3★
+
+Google Reviews
+
+5900+
+
+Price
+
+₹200–400
+
+Address
+
+24 Chatta Wala Gully
+
+Poddar Court
+
+Tiretti Bazaar
+
+Kolkata
+
+West Bengal
+
+700012
+
+Google Maps
+
+https://www.google.com/maps/place/Tung+Nam+Eating+House/
+
+====================================================
+
+DESIGN STYLE
+
+The website should feel
+
+Authentic
+
+Luxury
+
+Elegant
+
+Traditional
+
+Warm
+
+Modern
+
+Inspired by
+
+Old Chinatown
+
+Chinese Lantern Festival
+
+Traditional Chinese Architecture
+
+Wooden Interiors
+
+Wok Fire
+
+Street Heritage
+
+DO NOT copy another website.
+
+Create a unique visual identity.
+
+====================================================
+
+COLOR PALETTE
+
+Chinese Red
+
+Black
+
+Gold
+
+Ivory
+
+Dark Walnut
+
+Warm Orange
+
+====================================================
+
+TYPOGRAPHY
+
+Heading
+
+Cinzel
+
+Playfair Display
+
+Body
+
+Poppins
+
+Inter
+
+====================================================
+
+NAVIGATION
+
+Sticky Glass Navbar
+
+Transparent Hero
+
+Solid after scrolling
+
+Sections
+
+Home
+
+About
+
+Menu
+
+Gallery
+
+Reviews
+
+Location
+
+Contact
+
+====================================================
+
+HERO SECTION
+
+Create a breathtaking cinematic hero.
+
+Background should feature
+
+Chinese Lanterns
+
+Steaming Hakka Noodles
+
+Dim Sum
+
+Chilli Chicken
+
+Wok Flames
+
+Traditional Wooden Restaurant
+
+Warm Cinematic Lighting
+
+Floating Steam
+
+Subtle Smoke Animation
+
+Very subtle floating lantern particles
+
+Headline
+
+Experience the Authentic Taste of Chinatown
+
+Subheading
+
+Legendary Chinese Flavours • Tiretti Bazaar • Loved Across Kolkata
+
+Buttons
+
+Explore Menu
+
+Reserve Table
+
+Call Now
+
+Get Directions
+
+Floating Review Badge
+
+⭐⭐⭐⭐☆
+
+5900+ Happy Customers
+
+Animated Scroll Indicator
+
+====================================================
+
+ABOUT SECTION
+
+Write a beautiful story inspired by publicly available information.
+
+Focus on
+
+Traditional Chinese cooking
+
+Fresh ingredients
+
+Authentic flavours
+
+Family dining
+
+Warm hospitality
+
+Neighbourhood favourite
+
+Do NOT invent historical claims.
+
+====================================================
+
+WHY CHOOSE US
+
+Premium Feature Cards
+
+Authentic Chinese Cuisine
+
+Fresh Ingredients
+
+Live Wok Cooking
+
+Family Friendly
+
+Affordable Dining
+
+Loved By Thousands
+
+====================================================
+
+SIGNATURE DISHES
+
+Create beautiful feature cards.
+
+Include dishes commonly associated with the restaurant or Chinese cuisine that are publicly listed.
+
+Possible categories
+
+Hakka Noodles
+
+Mixed Fried Rice
+
+Chilli Chicken
+
+Sweet & Sour Chicken
+
+Fish in Garlic Sauce
+
+Dim Sum
+
+Soup
+
+Manchurian
+
+Spring Rolls
+
+Chef Specials
+
+Each card should include
+
+Large Image
+
+Description
+
+Price
+
+Chef Recommendation
+
+Best Seller
+
+Hover Animation
+
+====================================================
+
+MENU
+
+Create premium menu categories
+
+Soups
+
+Starters
+
+Chicken
+
+Seafood
+
+Rice
+
+Noodles
+
+Vegetarian
+
+Chef Specials
+
+Desserts
+
+Beverages
+
+Every menu item should have
+
+Image
+
+Description
+
+Price
+
+Order Button
+
+Hover Animation
+
+====================================================
+
+AI FOOD GUIDE
+
+Create an AI Chinese Food Assistant.
+
+Ask visitors
+
+Veg or Non-Veg
+
+Rice or Noodles
+
+Mild or Spicy
+
+Soup or Starter
+
+Recommend suitable dishes.
+
+Provide
+
+Order on WhatsApp
+
+====================================================
+
+GALLERY
+
+Premium Masonry Gallery
+
+Chinese Dishes
+
+Restaurant Interior
+
+Cooking
+
+Serving Style
+
+Dining Experience
+
+Hover Zoom
+
+Lightbox
+
+====================================================
+
+CUSTOMER REVIEWS
+
+Display
+
+⭐⭐⭐⭐☆
+
+4.3 Rating
+
+5900+ Reviews
+
+Create elegant review cards inspired by common public review themes such as authentic Chinese flavours, noodles, ambience, and service. Do not invent customer identities.
+
+====================================================
+
+GOOGLE MAPS
+
+Embed Google Maps.
+
+Buttons
+
+Open Maps
+
+Get Directions
+
+====================================================
+
+WHATSAPP
+
+If the restaurant's WhatsApp number is publicly available, integrate it.
+
+If it is not publicly available, do NOT invent one.
+
+Instead, create a floating WhatsApp enquiry button that can easily be configured later and clearly mark the number as configurable in the code comments.
+
+====================================================
+
+CALL BUTTON
+
+If the restaurant's public phone number is available, create a floating click-to-call button.
+
+If unavailable, leave a clearly marked configuration placeholder in the code instead of inventing a number.
+
+====================================================
+
+CONTACT
+
+Display
+
+Phone (only if publicly available)
+
+Address
+
+Google Maps
+
+Opening Hours
+
+Everything clickable.
+
+====================================================
+
+FOOD IMAGES
+
+VERY IMPORTANT
+
+Use premium royalty-free food photography.
+
+Every menu item should have a matching image.
+
+Requirements
+
+4K
+
+Restaurant Photography
+
+Warm Lighting
+
+No Watermarks
+
+No AI Artifacts
+
+Rounded Cards
+
+Hover Zoom
+
+Skeleton Loading
+
+====================================================
+
+ANIMATIONS
+
+Framer Motion
+
+Fade Up
+
+Image Zoom
+
+Hover Lift
+
+Glassmorphism
+
+Animated Counters
+
+Scroll Reveal
+
+Parallax Hero
+
+Smooth Page Transition
+
+====================================================
+
+RESPONSIVE
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+No overflow
+
+Perfect spacing
+
+Touch Friendly
+
+====================================================
+
+SEO
+
+Restaurant Schema
+
+LocalBusiness Schema
+
+JSON-LD
+
+OpenGraph
+
+Twitter Cards
+
+Semantic HTML
+
+====================================================
+
+ACCESSIBILITY
+
+ARIA Labels
+
+Keyboard Navigation
+
+Alt Text
+
+High Contrast
+
+====================================================
+
+PERFORMANCE
+
+Lighthouse Score Above 95
+
+Lazy Loading
+
+Optimized Images
+
+Fast Loading
+
+====================================================
+
+EXTRA PREMIUM FEATURES
+
+Today's Special
+
+Chef Recommendation
+
+Google Review Counter
+
+Reservation Popup
+
+Back To Top
+
+Scroll Progress
+
+Sticky Mobile CTA
+
+Instagram Feed
+
+FAQ
+
+Newsletter
+
+====================================================
+
+FOOTER
+
+Quick Links
+
+Address
+
+Google Maps
+
+Contact
+
+Copyright
+
+Disclaimer
+
+"This is an unofficial concept website created using publicly available information for demonstration purposes only and is not officially affiliated with Tung Nam Eating House."
+
+====================================================
+
+FINAL REQUIREMENTS
+
+Review every requirement before generating code.
+
+Generate complete production-ready React code.
+
+Do not use lorem ipsum.
+
+Do not use placeholder content.
+
+Do not invent business facts.
+
+Every button must work.
+
+Google Maps must work.
+
+The website should look handcrafted by a premium digital agency.
+
+The owner should immediately feel that this website represents the heritage and authenticity of Tung Nam Eating House.
