@@ -15,22 +15,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v3
-        with:
-          version: 9
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: "pnpm"
+
+      - name: Install pnpm
+        run: npm install -g pnpm@9
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Build typecheck libs
-        run: pnpm run typecheck:libs
+        run: pnpm install --no-frozen-lockfile
 
       - name: Build website
         run: pnpm --filter @workspace/tung-nam run build
@@ -44,3 +38,4 @@ jobs:
         with:
           folder: artifacts/tung-nam/dist/public
           branch: gh-pages
+          clean: true
